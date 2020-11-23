@@ -1,0 +1,7 @@
+mymodule_index:
+  version: 1.0
+  js:
+    js/index.js: {}
+  dependencies:
+    - core/jquery
+

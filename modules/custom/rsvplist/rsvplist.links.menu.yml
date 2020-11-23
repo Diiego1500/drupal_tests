@@ -1,0 +1,6 @@
+rsvplist.form:
+  title: 'Form Rsvp'
+  description: 'Link to the form created'
+  route_name: rsvplist.form
+  weight: 10
+  manu_name: main

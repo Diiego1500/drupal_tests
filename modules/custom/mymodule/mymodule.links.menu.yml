@@ -1,0 +1,6 @@
+mymodule.newpage:
+  title: 'My module Stuff'
+  description: 'Link to the page module created'
+  route_name: mymodule.content
+  weight: 10
+  manu_name: main
